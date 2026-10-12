@@ -1,4 +1,4 @@
 # ReliableSAR2Opt
-Mitigating Generation Hallucinations in SAR-to-Optical Translation: A Reliable Framework Guided by Topographic Priors and Task-Oriented Consistency
+Topographic-Prior-Guided SAR-to-Optical Image Translation for Complex Remote Sensing Scenes
 
 Code and datasets will be made publicly available upon paper acceptance.
